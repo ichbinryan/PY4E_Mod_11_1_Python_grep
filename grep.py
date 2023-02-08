@@ -1,6 +1,6 @@
 import re
 
-def countpatterninfile():
+def count_pattern_in_file():
     regular_expression = input("Enter a regular expression: ")
 
     
